@@ -1,3 +1,6 @@
+body{
+    text-align: center;
+}
 .dark{
     position:relative;
     background-color: blue;
@@ -10,4 +13,10 @@
 }
 .btn-style{
     position:absolute;
+}
+.head{
+    color:white;
+}
+.head2{
+    color:red;
 }
