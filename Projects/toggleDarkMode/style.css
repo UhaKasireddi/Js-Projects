@@ -1,0 +1,13 @@
+.dark{
+    position:relative;
+    background-color: blue;
+    width: 500px;
+    height: 500px;
+    border-radius: 10px;
+}
+.togg{
+    background-color: black;
+}
+.btn-style{
+    position:absolute;
+}
